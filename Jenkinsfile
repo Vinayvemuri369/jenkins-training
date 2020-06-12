@@ -11,5 +11,6 @@ pipeline {
        steps {
           git 'https://github.com/kmayer10/maven-sample-project.git'
       }
+    }
    }
 }
